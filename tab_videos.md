@@ -1,9 +1,9 @@
 ---
 title: Videos
-layout:  null
+layout:  col-sidebar
 tab: true
 order: 1
-tags: video-tag
+tags: example-tag
 ---
 
 ## Example
