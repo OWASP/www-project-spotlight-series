@@ -9,4 +9,11 @@ pitch: A very brief, one-line description of your project
 
 ---
 
-OWASP Project Spotlight Series started with the intent to bring the projects to people, to make all the projects aware to the people who part of the security world and who are not part of security world like Developers, Testers, Architects and much more.
+OWASP has been churning out massive projects for the benefit of community. However, a lot of people are not aware about the projects or the people who are aware have very little idea on the working of the projects. 
+
+OWASP Project Spotlight Series started with the intent to bring awareness about OWASP projects. We cover one project per video and aim to focus on following areas:-
+
+* Motivation behind the project
+* What is the project all about?
+* How does it work with the demo?
+* How people can contribute and be part of the project?
