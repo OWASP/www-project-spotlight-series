@@ -17,3 +17,7 @@ OWASP Project Spotlight Series started with the intent to bring awareness about 
 * What is the project all about?
 * How does it work with the demo?
 * How people can contribute and be part of the project?
+
+
+OWASP Projects Spotlight series
+https://www.youtube.com/playlist?list=PLUKo5k_oSrfOTl27gUmk2o-NBKvkTGw0T
