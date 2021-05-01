@@ -19,5 +19,6 @@ OWASP Project Spotlight Series started with the intent to bring awareness about 
 * How people can contribute and be part of the project?
 
 
-OWASP Projects Spotlight series
-https://www.youtube.com/playlist?list=PLUKo5k_oSrfOTl27gUmk2o-NBKvkTGw0T
+OWASP Projects Spotlight series Videos:-
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLUKo5k_oSrfOTl27gUmk2o-NBKvkTGw0T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
