@@ -1,2 +1,2 @@
 ### Leaders
-* [Vandana Verma Sehgal](mailto:vandana@infosecvandana.com)
+* [Vandana Verma Sehgal](mailto:vandana.verma@owasp.org)
