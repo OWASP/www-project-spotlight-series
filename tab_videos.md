@@ -10,6 +10,19 @@ tags: example-tag
 
 All the spotlights covered so far
 
+## OWASP Spotlight - Project 31 - OWASP WrongSecrets
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GfzMPBMTis4?si=J2vun0fRMVPeQ5P1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## OWASP Spotlight - Project 30 - OWASP Developer Guide
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/inSkNPLDlWo?si=nxqv4jVWZykwxVuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## OWASP Spotlight - Project 26 - OWASP SamuraiWTF
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PBWUlx_kJmI?si=F2LoQU-r3qR3bfMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## OWASP Spotlight - Project 25 - OWASP Juice Shop
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--50rE76EeA?si=kkGMoC2uV3Mm2TZa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
