@@ -18,6 +18,18 @@ All the spotlights covered so far
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/inSkNPLDlWo?si=nxqv4jVWZykwxVuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## OWASP Spotlight - Project 29 - OWASP Domain Protect
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KoP1X1Dyz9o?si=wKHS12HYAqCM5gKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## OWASP Spotlight - Project 28 - OWASP OpenCRE
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TwNroVARmB0?si=XjYM7uNOfGsfvjG5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## OWASP Spotlight - Project 27 - OWASP LLM Top 10
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MCbE4Gk5mmk?si=XBSXbwU13bB_BLs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## OWASP Spotlight - Project 26 - OWASP SamuraiWTF
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PBWUlx_kJmI?si=F2LoQU-r3qR3bfMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
