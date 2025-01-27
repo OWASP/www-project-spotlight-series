@@ -21,4 +21,4 @@ OWASP Project Spotlight Series started with the intent to bring awareness about 
 
 OWASP Projects Spotlight series Videos:-
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLUKo5k_oSrfOTl27gUmk2o-NBKvkTGw0T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/inSkNPLDlWo?si=wlAAII3JIEggM_L1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
