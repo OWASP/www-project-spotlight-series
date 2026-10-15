@@ -1,0 +1,20 @@
+current directory: /Users/vandanaverma/Documents/MCP_Training_Tools/www-project-spotlight-series/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/vandanaverma/Documents/MCP_Training_Tools/www-project-spotlight-series/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20261016-56420-avuk5k sitelibdir\=./.gem.20261016-56420-avuk5k clean
+
+current directory: /Users/vandanaverma/Documents/MCP_Training_Tools/www-project-spotlight-series/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20261016-56420-avuk5k sitelibdir\=./.gem.20261016-56420-avuk5k
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: search path '/opt/homebrew/Cellar/openssl@3/3.6.4/lib' not found
+ld: warning: building for macOS-26.4, but linking with dylib '/opt/homebrew/opt/ruby@4.0/lib/libruby.4.0.dylib' which was built for newer version 27.0
+
+current directory: /Users/vandanaverma/Documents/MCP_Training_Tools/www-project-spotlight-series/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20261016-56420-avuk5k sitelibdir\=./.gem.20261016-56420-avuk5k install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20261016-56420-avuk5k/racc
+
+current directory: /Users/vandanaverma/Documents/MCP_Training_Tools/www-project-spotlight-series/vendor/bundle/ruby/4.0.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20261016-56420-avuk5k sitelibdir\=./.gem.20261016-56420-avuk5k clean

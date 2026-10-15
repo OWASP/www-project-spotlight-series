@@ -10,13 +10,57 @@ tags: example-tag
 
 All the spotlights covered so far
 
+## OWASP Spotlight - Project 40 - OWASP CVE Lite CLI
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/plxcVWhdBTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## OWASP Spotlight - Project 39 - OWASP MCP Governance and Risk
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3enEn_k0PcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## OWASP Spotlight - Project 38 - OWASP OASIS
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Lg9EYrV-_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## OWASP Spotlight - Project 37 - OWASP EKS Goat
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PcGb8Mof_m4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## OWASP Spotlight - Project 36 - OWASP Agentic Skills Top 10 (AST1 - AST10)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8La0oGDnNG8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## OWASP Spotlight - Project 35 - OWASP AI Bill of Material (AIBOM)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L5SUaO_jeng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## OWASP Spotlight - Project 34 - OWASP VulnerableApp
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hoCxzQQugZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## OWASP MAS with Sven and Carlos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0zqz-86EQ_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## OWASP Spotlight - Project 33 - OWASP FIASSE
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/82ZvPtFqT84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## OWASP Spotlight - Project 32 - OWASP AIVSS
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KZQtC6c_O-k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## OWASP Spotlight - Project 31 - OWASP WrongSecrets
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GfzMPBMTis4?si=J2vun0fRMVPeQ5P1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/inSkNPLDlWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Threat Modeling Manifesto
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vzcCw_1hmwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## OWASP Spotlight - Project 30 - OWASP Developer Guide
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/inSkNPLDlWo?si=nxqv4jVWZykwxVuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GfzMPBMTis4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## OWASP Spotlight - Project 29 - OWASP Domain Protect
 
@@ -135,4 +179,8 @@ All the spotlights covered so far
 ## OWASP Spotlight - Project 1 - Applying OWASP Testing Guide - Vandana Verma
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bxQPePVDbQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## What Belongs in an AI Bill of Materials - OWASP AI BOM
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/azuYgSe-LBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

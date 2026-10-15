@@ -1,0 +1,25 @@
+current directory: /Users/vandanaverma/Documents/MCP_Training_Tools/www-project-spotlight-series/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/vandanaverma/Documents/MCP_Training_Tools/www-project-spotlight-series/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make -j3 DESTDIR\= sitearchdir\=./.gem.20261016-56420-bybuon sitelibdir\=./.gem.20261016-56420-bybuon clean
+
+current directory: /Users/vandanaverma/Documents/MCP_Training_Tools/www-project-spotlight-series/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make -j3 DESTDIR\= sitearchdir\=./.gem.20261016-56420-bybuon sitelibdir\=./.gem.20261016-56420-bybuon
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+ruby_http_parser.c:373:17: warning: comparison of integers of different signs: 'size_t' (aka 'unsigned long') and 'long' [-Wsign-compare]
+  373 |     if (nparsed < len)
+      |         ~~~~~~~ ^ ~~~
+1 warning generated.
+linking shared-object ruby_http_parser.bundle
+ld: warning: search path '/opt/homebrew/Cellar/openssl@3/3.6.4/lib' not found
+ld: warning: building for macOS-26.4, but linking with dylib '/opt/homebrew/opt/ruby@4.0/lib/libruby.4.0.dylib' which was built for newer version 27.0
+
+current directory: /Users/vandanaverma/Documents/MCP_Training_Tools/www-project-spotlight-series/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make -j3 DESTDIR\= sitearchdir\=./.gem.20261016-56420-bybuon sitelibdir\=./.gem.20261016-56420-bybuon install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20261016-56420-bybuon
+
+current directory: /Users/vandanaverma/Documents/MCP_Training_Tools/www-project-spotlight-series/vendor/bundle/ruby/4.0.0/gems/http_parser.rb-0.8.1/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20261016-56420-bybuon sitelibdir\=./.gem.20261016-56420-bybuon clean

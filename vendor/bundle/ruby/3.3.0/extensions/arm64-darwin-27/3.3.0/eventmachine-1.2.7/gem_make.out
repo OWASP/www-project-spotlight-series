@@ -1,0 +1,20 @@
+current directory: /Users/vandanaverma/Documents/MCP_Training_Tools/www-project-spotlight-series/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/opt/homebrew/opt/ruby@3.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/vandanaverma/Documents/MCP_Training_Tools/www-project-spotlight-series/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20261016-57904-c3j6s5 sitelibdir\=./.gem.20261016-57904-c3j6s5 clean
+
+current directory: /Users/vandanaverma/Documents/MCP_Training_Tools/www-project-spotlight-series/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20261016-57904-c3j6s5 sitelibdir\=./.gem.20261016-57904-c3j6s5
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: building for macOS-26.4, but linking with dylib '/opt/homebrew/opt/ruby@3.3/lib/libruby.3.3.dylib' which was built for newer version 27.0
+
+current directory: /Users/vandanaverma/Documents/MCP_Training_Tools/www-project-spotlight-series/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20261016-57904-c3j6s5 sitelibdir\=./.gem.20261016-57904-c3j6s5 install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20261016-57904-c3j6s5
+
+current directory: /Users/vandanaverma/Documents/MCP_Training_Tools/www-project-spotlight-series/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20261016-57904-c3j6s5 sitelibdir\=./.gem.20261016-57904-c3j6s5 clean
